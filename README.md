@@ -12,4 +12,4 @@
 
 ## 大二下：2020-2021 学年春学期
 -数值分析(MATH1426.01)
-  -[作业及数值试验]()
+  -[作业及数值试验](https://github.com/jyudong/Numerical-Analysis/tree/main/数值分析)
