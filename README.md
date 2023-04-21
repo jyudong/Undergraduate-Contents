@@ -26,6 +26,7 @@
   - [作业](https://github.com/jyudong/Relativistic-Quantum-Field-Theory)
 
 - 固体物理II(PHYS1522)
+  - [作业](https://github.com/jyudong/Solid-Physics-II)
 
 - 凝聚态拓扑物理(PHYS2122)
 
