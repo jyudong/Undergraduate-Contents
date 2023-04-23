@@ -2,6 +2,8 @@
 本科阶段（2019秋至今）工作内容，包含作业及项目等。 Contents of undergraduate work (since the fall of 2019), including homework and projects.
 
 ## 大一上：2019-2020 学年秋学期
+- 物理原理I(PHYS1106.01)
+  - [作业](https://github.com/jyudong/Principle-of-Physics-I)
 
 
 ## 大一下：2019-2020 学年春学期
