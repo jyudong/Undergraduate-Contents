@@ -23,8 +23,8 @@
   - [作业](https://github.com/jyudong/Electrodynamics-Assignments)
 
 ## 大三上：2021-2022 学年秋学期
-- 测试(01)
-  - [01]
+- 热力学与统计物理(PHYS1503.01)
+  - [作业](https://github.com/jyudong/Thermodynamics-and-Statistical-Physics-Assignments)
 
 ## 大三下：2021-2022学年春学期
 - 测试
