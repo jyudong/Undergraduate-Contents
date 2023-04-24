@@ -29,6 +29,8 @@
 ## 大三下：2021-2022学年春学期
 - 固体物理(PHYS1512.01)
   - [作业](https://github.com/jyudong/Solid-Physics-Assignments)
+- 高等热力学与统计物理(102362)
+  - [作业](https://github.com/jyudong/Advanced-Thermodynamics-and-Statistical-Physics-Assignments)
 
 ## 大四上：2022-2023学年秋学期
 - 相对论量子场论(103104)
