@@ -19,6 +19,8 @@
   - [作业及数值试验](https://github.com/jyudong/Numerical-Analysis/tree/main/数值分析)
 - 概率论与数理统计I(MATH1212.02)
   - [作业](https://github.com/jyudong/Probobality-ans-Statistics-I-Assignments)
+- 电动力学(PHYS1314.02)
+  - [作业](https://github.com/jyudong/Electrodynamics-Assignments)
 
 ## 大三上：2021-2022 学年秋学期
 - 测试(01)
