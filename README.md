@@ -27,7 +27,8 @@
   - [作业](https://github.com/jyudong/Thermodynamics-and-Statistical-Physics-Assignments)
 
 ## 大三下：2021-2022学年春学期
-- 测试
+- 固体物理(PHYS1512.01)
+  - [作业](https://github.com/jyudong/Solid-Physics-Assignments)
 
 ## 大四上：2022-2023学年秋学期
 - 相对论量子场论(103104)
