@@ -21,6 +21,8 @@
   - [作业](https://github.com/jyudong/Probobality-ans-Statistics-I-Assignments)
 - 电动力学(PHYS1314.02)
   - [作业](https://github.com/jyudong/Electrodynamics-Assignments)
+- 数学物理方法II
+  - [作业](https://github.com/jyudong/Method-of-Mathematical-Physics-II)
 
 ## 大三上：2021-2022 学年秋学期
 - 热力学与统计物理(PHYS1503.01)
