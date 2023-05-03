@@ -9,6 +9,8 @@
 ## 大一下：2019-2020 学年春学期
 - 物理原理II(PHYS1107.01)
   - [作业](https://github.com/jyudong/Principle-of-Physics-II-Assignments)
+- 线性代数I(MATH1112.01)
+  - [作业](https://github.com/jyudong/Linear-Algebra-I)
 
 ## 大二上：2020-2021 学年秋学期
 - 现代文学传统与写作(GEHA1006.01) 
