@@ -11,6 +11,8 @@
   - [作业](https://github.com/jyudong/Principle-of-Physics-II-Assignments)
 - 线性代数I(MATH1112.01)
   - [作业](https://github.com/jyudong/Linear-Algebra-I)
+- 数学分析II(GEMA1010.02)
+  - [作业](https://github.com/jyudong/Mathematical-Analysis-II-Assignments)
 
 ## 大二上：2020-2021 学年秋学期
 - 现代文学传统与写作(GEHA1006.01) 
