@@ -1,5 +1,5 @@
 # Undergraduate-Contents
-本科阶段（2019秋至今）工作内容，包含作业及项目等。 Contents of undergraduate work (since the fall of 2019), including homework and projects.
+本科阶段（2019秋至2023春）工作内容，包含作业及项目等。 Contents of undergraduate work (from the fall of 2019 to the spring of 2023), including homework and projects.
 
 ## 大一上：2019-2020 学年秋学期
 - 物理原理I(PHYS1106.01)
